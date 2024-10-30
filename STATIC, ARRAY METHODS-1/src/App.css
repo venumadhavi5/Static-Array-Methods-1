@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  background-color: deepskyblue;
+  display: inline-block;
+}
+button{
+  background-image:url("https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_640.png") ;
+  color:yellow;
+  font-size: 2rem;
+  margin: 5px;
+}
+
+
